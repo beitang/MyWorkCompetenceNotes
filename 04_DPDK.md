@@ -13,4 +13,6 @@
 - sudo bash
 
 #### Deploying Intel DPDK in VirtualBox
-- 
+- http://plvision.eu/blog/deploying-intel-dpdk-in-oracle-virtualbox/
+- http://askubuntu.com/questions/365615/how-do-i-enable-multiple-cores-in-my-virtual-enviroment
+ 
